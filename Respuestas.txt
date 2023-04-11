@@ -1,5 +1,0 @@
-Archivo de respuestas
-2)
-f) * No se puede ver el archivo. Es debido a que al volver a la rama principal en el git bash, muestra solo los archivos del main pero aun se conservan de forma invisible los archivos hechos en "Opcion_2"
-*Se puede ver como la grafica muestra cuales son los archivos que estan visibles en la rama principal y cuales son los que estan en las otras ramas
-*Los archivos en main y "Opcion_2" se juntaron en main, haciendo que todo se vuelva visible al mismo tiempo
